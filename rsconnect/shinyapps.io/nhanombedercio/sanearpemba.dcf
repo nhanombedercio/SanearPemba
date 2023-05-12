@@ -1,0 +1,14 @@
+name: sanearpemba
+title: sanearpemba
+username:
+account: nhanombedercio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9096861
+bundleId: 7210558
+url: https://nhanombedercio.shinyapps.io/sanearpemba/
+when: 1683905939.73086
+lastSyncTime: 1683905939.73088
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Graph.png|pemba Limpeza.do|R/visaogeral.html|visaogeral.pdf|visaogeral.Rmd|visaogeral.tex

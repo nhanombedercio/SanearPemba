@@ -1,0 +1,28 @@
+---
+title: "visaogeral"
+author: "Dercio"
+date: "2023-04-23"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Susamati
+
+Susamati é um negócio social que traz soluções inovadoras para o saneamento em Moçambique, desenvolvendo projectos a níveis de diferentes províncias do país com o objectivo de melhorar o saneamento das famílias, principalmente as que vivem em zonas suburbanas e rurais
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
